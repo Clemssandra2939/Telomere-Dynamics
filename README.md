@@ -50,7 +50,7 @@ Created various plots using matplotlib and seaborn:
 - Box plots of telomere length by sex, cell type, and clinical condition
 - Scatter plot of telomere length vs. passage number
 - Multiple scatter plots showing relationships between telomere length and various factors
-
+![output](https://github.com/user-attachments/assets/edcf56e7-6e97-4ef6-9910-9476058d43ee)
 ## 8. Results and Interpretation
 - Negative correlation between age and telomere length (correlation coefficient: X, p-value: Y)
 - Significant difference in telomere length between males and females (t-statistic: X, p-value: Y)
@@ -63,3 +63,4 @@ This study provides evidence for significant relationships between telomere leng
 - Investigate additional factors that may influence telomere length
 - Conduct longitudinal analysis if data becomes available
 - Explore non-linear relationships between variables
+
