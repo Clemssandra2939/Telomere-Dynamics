@@ -58,7 +58,7 @@ Created various plots using matplotlib and seaborn:
 - [Add more specific results from your analysis]
 
 ## 9. Conclusion
-[Summarize the main findings and their implications]
+This study provides evidence for significant relationships between telomere length, age, and sex. The findings support telomere length as a biomarker of aging while highlighting the complexity of factors influencing telomere dynamics.
 
 ## 10. Future Work
 - Investigate additional factors that may influence telomere length
