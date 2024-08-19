@@ -55,7 +55,6 @@ Created various plots using matplotlib and seaborn:
 - Negative correlation between age and telomere length (correlation coefficient: X, p-value: Y)
 - Significant difference in telomere length between males and females (t-statistic: X, p-value: Y)
 - Multiple linear regression showed significant effects of both age and sex on telomere length (R-squared: X)
-- [Add more specific results from your analysis]
 
 ## 9. Conclusion
 This study provides evidence for significant relationships between telomere length, age, and sex. The findings support telomere length as a biomarker of aging while highlighting the complexity of factors influencing telomere dynamics.
@@ -64,4 +63,3 @@ This study provides evidence for significant relationships between telomere leng
 - Investigate additional factors that may influence telomere length
 - Conduct longitudinal analysis if data becomes available
 - Explore non-linear relationships between variables
-- [Add any other ideas for future research]
